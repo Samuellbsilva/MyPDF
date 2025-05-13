@@ -1,0 +1,5 @@
+flask
+python-dotenv
+requests
+aspose-pdf
+aspose-words
